@@ -1,1 +1,1 @@
-# myfirst
+var awesomeThought = ("I am awesome!");
