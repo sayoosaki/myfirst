@@ -1,2 +1,2 @@
 # myfirst
-$("#main").append(sayo); 
+$("#main").append("sayo"); 
